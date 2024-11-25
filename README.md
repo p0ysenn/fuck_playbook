@@ -6,6 +6,12 @@ no excuse not to learn utility
     Left/Right (value > 0 = right), 
     Height (value > 0 = higher)] -->
 
+Vorraussetzungen: \n
+sv_cheats true
+sv_allow_annotations true
 
-Einfügen in:
+Einfügen in: \n
 common\Counter-Strike Global Offensive\game\csgo\annotations
+
+Starten mit: \n
+annotation_load mapname/mapname
