@@ -10,9 +10,22 @@ no excuse not to learn utility
 Oben rechts auf den "Code" Button klicken und das Repository als ZIP runterladen
 
 ## Installation:
-Den ZIP Ordner unter diesem Pfad einfügen<br>
+Den ZIP Ordner entpacken und den Inhalt des "fuck_playbook-master" Ordners unter diesem Pfad einfügen<br>
     *common\Counter-Strike Global Offensive\game\csgo\annotations*<br>
 Sollte der *annotations* Ordner noch nicht existieren, muss man ihn selber anlegen.<br>
+<br>
+Der Inhalt des Ordners sollte dann so aussehen:
+csgo
+│   ├───annotations
+│   │   ├───ancient
+│   │   ├───anubis
+│   │   ├───dust
+│   │   ├───inferno
+│   │   ├───mirage
+│   │   ├───nuke
+│   │   ├───overpass
+│   │   ├───train
+│   │   └───vertigo
 
 ## Vorraussetzungen für die Verwendung:<br>
  - sv_cheats true
