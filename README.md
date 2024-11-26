@@ -6,20 +6,20 @@ no excuse not to learn utility
     Left/Right (value > 0 = right), 
     Height (value > 0 = higher)] -->
 
-# Download
+## Download:
 Oben rechts auf den "Code" Button klicken und das Repository als ZIP runterladen
 
-# Installation:
+## Installation:
 Den ZIP Ordner unter diesem Pfad einfügen<br>
     *common\Counter-Strike Global Offensive\game\csgo\annotations*<br>
 Sollte der *annotations* Ordner noch nicht existieren, muss man ihn selber anlegen.<br>
 
-# Vorraussetzungen für die Verwendung:<br>
+## Vorraussetzungen für die Verwendung:<br>
  - sv_cheats true
  - sv_allow_annotations true
 
 
-# Verwendung
+## Verwendung:
 Ingame wird das ganze mit dem Console Command: "*annotation_load &lt;mapname&gt;/&lt;filename&gt;*" geladen.<br><br>
 
 *&lt;mapname&gt;* gibt den Namen der gewünschten map an (z.B. "anubis")<br>
