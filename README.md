@@ -16,16 +16,16 @@ Sollte der *annotations* Ordner noch nicht existieren, muss man ihn selber anleg
 <br>
 Der Inhalt des Ordners sollte dann so aussehen:
 csgo
-│   ├───annotations
-│   │   ├───ancient
-│   │   ├───anubis
-│   │   ├───dust
-│   │   ├───inferno
-│   │   ├───mirage
-│   │   ├───nuke
-│   │   ├───overpass
-│   │   ├───train
-│   │   └───vertigo
+│   ├───annotations\
+│   │   ├───ancient\
+│   │   ├───anubis\
+│   │   ├───dust\
+│   │   ├───inferno\
+│   │   ├───mirage\
+│   │   ├───nuke\
+│   │   ├───overpass\
+│   │   ├───train\
+│   │   └───vertigo\
 
 ## Vorraussetzungen für die Verwendung:<br>
  - sv_cheats true
