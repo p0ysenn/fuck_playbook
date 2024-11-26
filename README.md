@@ -25,7 +25,7 @@ csgo\
 │   │   ├───nuke\
 │   │   ├───overpass\
 │   │   ├───train\
-│   │   └───vertigo\
+│   │   └───vertigo
 
 ## Vorraussetzungen für die Verwendung:<br>
  - sv_cheats true
