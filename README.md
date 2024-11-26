@@ -14,8 +14,8 @@ Den ZIP Ordner entpacken und den Inhalt des "fuck_playbook-master" Ordners unter
     *common\Counter-Strike Global Offensive\game\csgo\annotations*<br>
 Sollte der *annotations* Ordner noch nicht existieren, muss man ihn selber anlegen.<br>
 <br>
-Der Inhalt des Ordners sollte dann so aussehen:
-csgo
+Der Inhalt des Ordners sollte dann so aussehen:\
+csgo\
 │   ├───annotations\
 │   │   ├───ancient\
 │   │   ├───anubis\
