@@ -15,8 +15,8 @@ Den ZIP Ordner entpacken und den Inhalt des "fuck_playbook-master" Ordners unter
 Sollte der *annotations* oder der *local* Ordner noch nicht existieren, muss man ggf. beide selber anlegen.<br>
 <br>
 Der Inhalt des Ordners sollte dann so aussehen:\
-csgo\
-│   ├───annotations\
+annotations\
+│   ├───local\
 │   │   ├───ancient\
 │   │   ├───anubis\
 │   │   ├───dust\
