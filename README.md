@@ -35,7 +35,7 @@ annotations\
 ## Verwendung:
 Ingame wird das ganze mit dem Console Command: "*annotation_load &lt;filename&gt;*" geladen.<br><br>
 
-*&lt;filename&gt;* gibt den Name des Lineup Sets an das man laden will (Standart ist wieder der Map Name)
+*&lt;filename&gt;* gibt den Name des Lineup Sets an das man laden will (Standart ist der Map Name)
 <br>
 <br>
 Beispiel:<br>
