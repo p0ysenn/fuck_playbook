@@ -11,8 +11,8 @@ Oben rechts auf den "Code" Button klicken und das Repository als ZIP runterladen
 
 ## Installation:
 Den ZIP Ordner entpacken und den Inhalt des "fuck_playbook-master" Ordners unter diesem Pfad einfügen<br>
-    *common\Counter-Strike Global Offensive\game\csgo\annotations*<br>
-Sollte der *annotations* Ordner noch nicht existieren, muss man ihn selber anlegen.<br>
+    *common\Counter-Strike Global Offensive\game\csgo\annotations\local*<br>
+Sollte der *annotations* oder der *local* Ordner noch nicht existieren, muss man ggf. beide selber anlegen.<br>
 <br>
 Der Inhalt des Ordners sollte dann so aussehen:\
 csgo\
@@ -33,9 +33,8 @@ csgo\
 
 
 ## Verwendung:
-Ingame wird das ganze mit dem Console Command: "*annotation_load &lt;mapname&gt;/&lt;filename&gt;*" geladen.<br><br>
+Ingame wird das ganze mit dem Console Command: "*annotation_load &lt;filename&gt;*" geladen.<br><br>
 
-*&lt;mapname&gt;* gibt den Namen der gewünschten map an (z.B. "anubis")<br>
 *&lt;filename&gt;* gibt den Name des Lineup Sets an das man laden will (Standart ist wieder der Map Name)
 <br>
 <br>
